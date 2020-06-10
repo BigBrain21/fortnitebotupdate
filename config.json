@@ -1,0 +1,11 @@
+{
+    "email": "email",
+    "password": "pass",
+    "friendaccept": false,
+    "defaultskin": "renegade raider",
+    "defaultlevel": 123,
+    "defaultbackpack": "black shield",
+    "defaultpickaxe": "raider's revenge",
+    "admin": "mistxbrain",
+    "platform": "PSN"
+}
